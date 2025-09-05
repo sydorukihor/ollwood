@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /success.html
+
+User-agent: Yandex
+Disallow: /success.html
